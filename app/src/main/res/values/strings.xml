@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeTeller</string>
+    <string name="joke_button_label">Press to tell a Joke!</string>
+    <string name="error_no_joke">Sorry! could not retrieve the joke. Please try again</string>
+</resources>

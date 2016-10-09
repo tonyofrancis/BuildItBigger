@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167331310863",
+    "firebase_url": "https://builditbiggerpaid.firebaseio.com",
+    "project_id": "builditbiggerpaid",
+    "storage_bucket": "builditbiggerpaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167331310863:android:b4ed90f0e571e10c",
+        "android_client_info": {
+          "package_name": "com.tonyostudio.builditbigger.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167331310863-50cqt5c89n8i66cu2t3eg33ko506r2nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4KNvy_Av9sCJCLz7ImVJtmSIEdUNNts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

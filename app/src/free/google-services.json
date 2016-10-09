@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234573201278",
+    "firebase_url": "https://builditbiggerfree-c5611.firebaseio.com",
+    "project_id": "builditbiggerfree-c5611",
+    "storage_bucket": "builditbiggerfree-c5611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234573201278:android:b162351aec9c606a",
+        "android_client_info": {
+          "package_name": "com.tonyostudio.builditbigger.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234573201278-2n102ugpd93n536uflmnkpd0kuj7kcc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0WIgQtopKXTc1PBD5wsE1gBvzOVdxtGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
