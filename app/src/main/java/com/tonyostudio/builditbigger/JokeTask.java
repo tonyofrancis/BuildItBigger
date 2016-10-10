@@ -16,6 +16,8 @@ import com.tonyostudio.joketeller.JokeScreenActivity;
 
 import java.io.IOException;
 
+import static android.content.Intent.FLAG_ACTIVITY_NEW_TASK;
+
 /**
  * Created by tonyofrancis on 10/9/16.
  */
@@ -63,6 +65,7 @@ public class JokeTask extends AsyncTask<Void,Void,Joke> {
 
         if(joke != null) {
             Intent intent = JokeScreenActivity.getIntent(context,joke.getJoke(),joke.getAnswer());
+            intent.addFlags(FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(intent);
         } else {
             Toast.makeText(context,R.string.error_no_joke,Toast.LENGTH_SHORT).show();
